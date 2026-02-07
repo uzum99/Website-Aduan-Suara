@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- Main -->
-<main class="container justify-content-center">
+<main class="container">
   <section id="cek-tiket">
     <img src="{{ asset('img/hero-1.png') }}" class="img-fluid mx-auto d-block" alt="Gambar Tiket Aduan" style="max-width: 500px;">
     <h1>Lacak Tiket Aduan</h1>
